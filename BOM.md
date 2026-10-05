@@ -19,7 +19,7 @@
 | [Premium Male/Male Jumper Wires - 40 x 6" (150mm)](https://www.adafruit.com/product/758) | Connects the power rails, switches, resistors, and LEDs together, across the breadboard rows | 1 | $3.95 | $3.95 | [Adafruit](https://www.adafruit.com/product/758) |
 | [Half Sized Premium Breadboard - 400 Tie Points](https://www.adafruit.com/product/64) | Is the physical prototype grid to arrange components and map out the 3 separate paths without soldering | 1 | $4.95 | $4.95 | [Adafruit](https://www.adafruit.com/product/64) |
 | **Parts subtotal** | — | — | — | **$20.05** | — |
-| **Tax & shipping** | — | — | — | **$8.66** | — |
-| **Total** | — | — | — | **$28.71** | — |
+| **Tax & shipping** | — | — | — | **$9.00** | — |
+| **Total** | — | — | — | **$29.05** | — |
 
-$1.29 left of the tier's funding.
+$0.95 left of the tier's funding.
