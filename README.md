@@ -1,2 +1,3 @@
 Hi! My name is Prisha, and I'm a junior in high school. I'm a complete beginner at robotics and hardware, and I'm so excited to learn and to be joining Hack Club!
 For my warm-up project, I am designing a simple, customized USB-powered desk light using individual LEDs! It will be portable and powered by a simple 5V USB-C breakout board. The circuit should split into 3 separate paths to 3 separate 5mm colored LEDs. I'll connect a physical push-button switch to turn the system on and off. I will also add 220-ohm resistors in front of each light to prevent the system from burning out. Everything will be arranged on the breadboard. 
+![Project Image](halflifewarmup.png)
